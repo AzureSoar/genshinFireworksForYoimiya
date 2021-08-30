@@ -1,2 +1,2 @@
 # lunarFireworks2021
-vue3 vite learning demo
+azuresoar.github.io/lunarFireworks2021/fireworks.html
